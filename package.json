@@ -1,0 +1,28 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "init": "^0.1.2",
+    "inquirer": "^6.2.2",
+    "mysql": "^2.16.0",
+    "json": "^9.0.6",
+    "table": "^5.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luisvega7/BAMAZON.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luisvega7/BAMAZON/issues"
+  },
+  "homepage": "https://github.com/luisvega7/BAMAZON#readme"
+}
